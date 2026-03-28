@@ -1,6 +1,22 @@
-# 💫 About Me:
-💻 I’m currently working on<br>Building full-stack projects using the MERN stack and improving my frontend development skills with React.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, web applications, and innovative tech ideas where I can learn and contribute.<br><br>🆘 I’m looking for help with<br>Backend development, system design, and improving my problem-solving skills in DSA.<br><br>🌱 I’m currently learning<br>React.js, Node.js, Express, MongoDB, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>Frontend development, HTML, CSS, JavaScript, React basics, and project building.<br><br>⚡ Fun fact<br>I enjoy solving math problems and playing e-games in my free time.
+## ✨ About Me  
 
+💻 **Currently Working On**  
+Building full-stack applications using the **MERN stack** and enhancing my frontend skills with **React.js**  
+
+🤝 **Looking to Collaborate On**  
+Open-source projects, innovative web apps, and real-world problem-solving ideas  
+
+🧠 **Seeking Help With**  
+Backend development, system design, and improving **DSA problem-solving skills**  
+
+🌱 **Currently Learning**  
+React.js • Node.js • Express.js • MongoDB • Data Structures & Algorithms  
+
+💬 **Ask Me About**  
+Frontend Development • HTML • CSS • JavaScript • React • Project Building  
+
+⚡ **Fun Fact**  
+I love solving math problems 🧮 and playing e-games 🎮  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-8a4807328)
