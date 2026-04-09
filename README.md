@@ -120,10 +120,10 @@ Frontend Development · HTML · CSS · JavaScript · React · Project Building
 <div align="center">
 
 <!-- Replace REPO_NAME_1 and REPO_NAME_2 with your actual repo names -->
-<a href="https://github.com/ayushsingh160107/REPO_NAME_1">
+<a href="https://github.com/ayushsingh160107/REACT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
 </a>
-<a href="https://github.com/ayushsingh160107/REPO_NAME_2">
+<a href="https://github.com/ayushsingh160107/WEB_TECH">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
 </a>
 
