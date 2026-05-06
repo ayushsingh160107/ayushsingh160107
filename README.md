@@ -90,9 +90,9 @@ Frontend Development · HTML · CSS · JavaScript · React · Project Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushsingh160107&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsingh160107&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh160107&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh160107&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -116,11 +116,11 @@ Frontend Development · HTML · CSS · JavaScript · React · Project Building
 
 <div align="center">
 
-<a href="https://github.com/ayushsingh160107/REACT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=REACT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
+<a href="https://github.com/ayushsingh160107/UniVentures">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=UniVentures&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
 </a>
-<a href="https://github.com/ayushsingh160107/WEB_TECH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=WEB_TECH&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
+<a href="https://github.com/ayushsingh160107/AI-Phising-Detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=AI-Phising-Detector&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
 </a>
 
 </div>
