@@ -114,16 +114,10 @@ Frontend Development · HTML · CSS · JavaScript · React · Project Building
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ayushsingh160107/UniVentures">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=UniVentures&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
-</a>
-<a href="https://github.com/ayushsingh160107/AI-Phising-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh160107&repo=AI-Phising-Detector&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%"/>
-</a>
-
-</div>
+| Project | Links |
+|---|---|
+| **UniVentures** | [Repo](https://github.com/ayushsingh160107/UniVentures) |
+| **AI Phishing Detector** | [Repo](https://github.com/ayushsingh160107/AI-Phising-Detector) |
 
 ---
 
