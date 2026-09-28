@@ -95,8 +95,7 @@ Frontend Development · HTML · CSS · JavaScript · React · Project Building
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh160107&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%" alt="Top Languages"/>
 
 <br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ayushsingh160107&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ayushsingh160107&theme=github-dark-blue&hide_border=true&background=0d1117" width="60%" alt="GitHub Streak"/>
 
 </div>
 
